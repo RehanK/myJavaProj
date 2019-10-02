@@ -82,7 +82,6 @@
         </configuration>
       </plugin>
      </reporting>
-    </plugins>
 
     <pluginManagement>
       <plugins>
